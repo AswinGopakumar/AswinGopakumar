@@ -1,10 +1,10 @@
 ### Hi there, I'm Aswin👋
 
 ### I'm working on:
+<code><img width="40px" src="https://img.icons8.com/color/2x/python.png" title="Python"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/2x/github.png" title="GitHub"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/2x/python.png" title="Python"/></code>
 <code><img width="40px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" title="MySQL"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/javascript.png" title="Javascript"/></code>
